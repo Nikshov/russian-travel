@@ -1,0 +1,9 @@
+.header__lang-links_list {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header__lang-links_list:first-child {
+    margin-right: 18px;
+  }
+  
