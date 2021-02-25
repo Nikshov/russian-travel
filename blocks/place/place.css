@@ -30,7 +30,7 @@
     }
   }
   
-  @media (max-width: 320px) {
+  @media (max-width: 432px) {
     .place {
       grid-template-columns: 1fr;
       margin-top: 50px;
