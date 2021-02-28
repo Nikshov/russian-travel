@@ -1,9 +1,8 @@
 .header__lang-list {
-    margin: 0;
-    padding: 0;
-  }
-  
-  .header__lang-list:first-child {
-    margin-right: 18px;
-  }
-  
+  margin: 0;
+  padding: 0;
+}
+
+.header__lang-list:first-child {
+  margin-right: 18px;
+}
