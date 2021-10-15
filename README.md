@@ -1,6 +1,6 @@
-# Проект 3: Путешествие по России.
+# Проект «Путешествие по России»
 ## Написан на HTML, CSS.
-### Применение на практике знаний полученных в первых трех спринтах.
+### Применение на практике знаний полученных в первых трех спринтах обучения в yandex.praktikum.
 [Репозиторий](https://github.com/Nikshov/russian-travel.git)  
 
 [GitHub Pages](https://nikshov.github.io/russian-travel/index.html)
