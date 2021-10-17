@@ -1,6 +1,6 @@
 # Проект «Путешествие по России»
-## Написан на HTML, CSS.
+## Одностраничный сайт про интересные места в России. Написан по БЭМу на HTML, CSS.
 ### Применение на практике знаний полученных в первых трех спринтах обучения в yandex.praktikum.
 [Репозиторий](https://github.com/Nikshov/russian-travel.git)  
 
-[GitHub Pages](https://nikshov.github.io/russian-travel/index.html)
+[GitHub Pages](https://nikинтересные места в России. shov.github.io/russian-travel/index.html)
